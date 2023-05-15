@@ -4,4 +4,4 @@ third
 
 from dev
 from test
-feature`"
+feature  test merge conflicts"
